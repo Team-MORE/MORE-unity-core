@@ -10,7 +10,7 @@ MORE 팀원들이 공통으로 사용하는 유니티 코어 패키지입니다.
 
 - 아래의 GitHub 주소를 입력하고 Add를 누릅니다.
 
-  - https://github.com/본인계정/MORE-unity-core.git
+  - https://github.com/Team-MORE/MORE-unity-core.git
 
 ## 폴더 구조 (Structure)
 

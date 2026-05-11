@@ -1,0 +1,18 @@
+{
+    "name": "MORE.Core.Editor",
+    "rootNamespace": "MORE.Core.Editor",
+    "references": [
+        "MORE.Core"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "com.MORE.core",
+  "version": "1.0.0",
+  "displayName": "MORE Unity Core",
+  "description": "Common framework and utility package for G-POS team projects.",
+  "unity": "6000.3",
+  "unityRelease": "0f1",
+  "author": {
+    "name": "G-POS",
+    "email": "MORE.postech@gmail.com"
+  },
+  "keywords": [
+    "MORE",
+    "core",
+    "utilities",
+    "framework"
+  ],
+  "_fingerprint": "a621ab45b3190fce74f32eac138afe3ef8d395f7"
+}
